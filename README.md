@@ -8,3 +8,5 @@ echo "hello" | repeat 3
 
 hellohellohello
 ```
+
+When used with Z shell, I compile it to 'rep', to avoid clashing with the built in function 'repeat'.
